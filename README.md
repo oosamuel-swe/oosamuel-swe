@@ -1,56 +1,57 @@
-# 👋 Hi, I'm Obasi Onyekachi Samuel  
-
-**`Back-End Developer in Progress | Building Reliable & Secure Systems | Entrepreneur`**
-
----
-
-## 🚀 About Me  
-I’m **Obasi Onyekachi Samuel**, a **Back-End Web Developer in training at ALX Africa**.  
-I am passionate about solving real-world problems, building reliable and secure software systems that help businesses grow, and working on community development infrastructures to improve lives.  
+<!-- Profile Header -->
+<h1 align="center">👋 Hi, I'm Obasi Onyekachi Samuel</h1>
+<h3 align="center">Aspiring Back-End Web Developer | Entrepreneur | Problem Solver | Community Builder</h3>
 
 ---
 
-## 🛠️ Tech Stack  
-- 💻 **Languages**: Python | C | Bash  
-- ⚙️ **Tools**: Git | GitHub | CLI | VS Code  
-- 🌐 **Back-End Interests**: APIs | Databases | System Design | Security  
-- 📚 **Currently Learning**: Advanced Bash Scripting | Git Workflows | Python  
+### 🌍 About Me
+- 💡 Passionate about **solving real-world problems** with technology  
+- 🚀 My aim: **Build reliable and secure software systems** that help businesses grow and improve lives  
+- 🌱 Currently learning **Back-End Web Development** at [ALX Africa](https://www.alxafrica.com/)  
+- 🏢 Entrepreneur — Founder of **LuxuryQlic Style**, a growing footwear business  
+- 🤝 Interested in contributing to **community development infrastructures**  
+- 🎯 Inspired to **make an impact** and **live a meaningful life** through tech & innovation  
 
 ---
 
-## 🗓️ My Learning Journey  
-- **2024** – Launched LuxuryQlic Style, a footwear brand in Ghana.  
-- **May 2025** – Started ALX Professional Foundation Program.  
-- **Aug 2025** – Transitioned into Back-End Web Development specialization.  
-- **In Progress** – Building projects with Python, Bash, and Git.  
-- **Future** – Create impactful back-end solutions for community development.  
+### 🛠️ Tech Stack
+- **Languages**: Python, JavaScript (learning), SQL  
+- **Back-End Tools**: Node.js, Express (learning)  
+- **Databases**: MySQL, PostgreSQL (learning)  
+- **Other Tools**: Git, GitHub, Bash  
 
 ---
 
-## 📌 Featured Projects  
-- **RoadWatch (Team Project at ALX)**  
-  Mobile + web solution for reporting road issues and analytics for authorities.  
+### 📊 GitHub Highlights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oosamuel-swe&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
 
-- **Learning Labs**  
-  Mini backend projects to sharpen my skills (Git, Bash, Python).  
-
-- **LuxuryQlic Style**  
-  My footwear brand, built to inspire style and confidence while running alongside my tech career.  
-
----
-
-## 📈 GitHub Stats  
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=oosamuel-swe&show_icons=true&theme=tokyonight)  
-![Samuel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oosamuel-swe&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oosamuel-swe&theme=radical" alt="GitHub streak stats" />
+</p>
 
 ---
 
-## ✨ Inspiration  
-> *“I’m passionate about creating solutions that solve problems, empower communities, and leave a lasting impact.”*  
+### 🏆 Featured Projects
+🚧 *Coming soon!* — I’m currently building exciting projects to showcase my journey as a back-end developer. Stay tuned!  
 
 ---
 
-## 🌍 Let’s Connect  
-- [GitHub](https://github.com/oosamuel-swe)  
-- [LinkedIn](https://www.linkedin.com/in/obasionyekachisamuel)  
+### 📫 Let’s Connect!
+<p align="left">
+  <a href="https://www.linkedin.com/in/obasionyekachisamuel" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:thesamsg@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐️ *“Building tech that matters. Impacting lives & communities through innovation and entrepreneurship.”* ⭐️
+
+---
+
   
