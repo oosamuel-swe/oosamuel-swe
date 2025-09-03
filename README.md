@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm Obasi Onyekachi Samuel</h1>
-<h3 align="center">Aspiring Back-End Web Developer | Entrepreneur | Problem Solver | Community Builder</h3>
+<h3 align="center">Aspiring Back-End Web Developer | Entrepreneur | Community Builder</h3>
 
 ---
 
